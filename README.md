@@ -12,3 +12,4 @@ Feature :
   - content delivery using chunking method which devide content into digestable chunk
   - chat real time between student and teachers
   - gamification when doing quizzes, real time statistic
+![alt text]([http://url/to/img.png](https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg)https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg)
