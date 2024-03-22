@@ -2,7 +2,7 @@
 Front end for Blended Learning management system web app
 Technology : Nextjs framework
 detail description: interface for microservice Blended learning web app
-feature : 
+Feature : 
   - Create: content,assignmment,file sumission,new feed posts, chat realtime,grading,quizzes,likes,comments,announcement
   - Read : content,assignment, submission, grade, content video, quizzes, chat, posts,announcement
   - modify content,quiz,question,post,comment
