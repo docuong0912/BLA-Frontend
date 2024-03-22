@@ -12,4 +12,4 @@ Feature :
   - content delivery using chunking method which devide content into digestable chunk
   - chat real time between student and teachers
   - gamification when doing quizzes, real time statistic
-![alt text](https://github.com/docuong0912/BLA-Frontend/blob/main/chị linh .jpg?raw=true)
+![alt text](https://github.com/docuong0912/BLA-Frontend/blob/main/chị%20linh%20.jpg?raw=true)
