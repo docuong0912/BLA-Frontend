@@ -1,0 +1,7 @@
+.announcement-box-container{
+    top:30px;
+    left:20px;
+    height:200px;
+    width:200px;
+    overflow:scroll;
+}

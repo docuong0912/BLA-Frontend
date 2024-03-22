@@ -1,0 +1,14 @@
+.comment-box-container{
+    z-index: 99;
+    overflow: hidden;
+}
+.comment-box{
+    transform: translate(-50%, -50%);
+    width: 70%;
+    max-height: 70%;
+    overflow: scroll;
+}
+.comment{
+    position: sticky;
+    bottom:0;
+}

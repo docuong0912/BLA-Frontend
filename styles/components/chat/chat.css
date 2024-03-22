@@ -1,0 +1,13 @@
+.chat-body{
+    height: 400px;
+    overflow-y: scroll;
+}
+.message-content{
+    width: max-content;
+    max-width: inherit;
+    display: flex;
+    flex-wrap: wrap;
+}
+.chat-box-container{
+    height: 80vh;
+}

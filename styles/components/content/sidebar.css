@@ -1,0 +1,17 @@
+.content-sidebar-container{
+    position: absolute;
+    right:0;
+    background-color: white;
+    padding: 20px;
+    width: 25%;
+    z-index:99;
+}
+.content-sidebar-container button{
+    outline: none;
+    border: none;
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}

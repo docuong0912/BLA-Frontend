@@ -1,0 +1,8 @@
+.chat-btn{
+    text-align: start;
+    border: none;
+    outline: none;
+}
+.chat-btn.active{
+    background-color: lightgray;
+}
